@@ -1,9 +1,4 @@
-package com.target.square;
-
-import com.target.Player;
-
-import java.util.ArrayList;
-import java.util.List;
+package com.interview.square;
 
 /**
  * Created on 18/08/17, 11:16 PM

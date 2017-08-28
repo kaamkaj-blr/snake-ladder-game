@@ -1,7 +1,7 @@
-package com.target.square;
+package com.interview.square;
 
-import com.target.Board;
-import com.target.Player;
+import com.interview.Board;
+import com.interview.Player;
 
 import java.util.ArrayList;
 import java.util.List;

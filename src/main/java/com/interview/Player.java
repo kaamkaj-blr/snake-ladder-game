@@ -1,6 +1,6 @@
-package com.target;
+package com.interview;
 
-import com.target.square.Square;
+import com.interview.square.Square;
 
 import java.util.Objects;
 

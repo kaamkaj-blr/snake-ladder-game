@@ -1,6 +1,6 @@
-package com.target;
+package com.interview;
 
-import com.target.square.*;
+import com.interview.square.*;
 
 import java.util.ArrayList;
 import java.util.List;

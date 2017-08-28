@@ -1,6 +1,6 @@
-package com.target.square;
+package com.interview.square;
 
-import com.target.Player;
+import com.interview.Player;
 
 /**
  * Created on 19/08/17, 2:07 AM

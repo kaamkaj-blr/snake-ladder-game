@@ -1,6 +1,6 @@
-package com.target.main;
+package com.interview.main;
 
-import com.target.Game;
+import com.interview.Game;
 
 import java.util.ArrayList;
 import java.util.List;

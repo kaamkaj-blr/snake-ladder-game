@@ -1,4 +1,4 @@
-package com.target.square;
+package com.interview.square;
 
 /**
  * Created on 19/08/17, 1:09 AM
